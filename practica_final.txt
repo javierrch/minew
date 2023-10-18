@@ -1,0 +1,5 @@
+Proceso:
+1. recoleccion de informacion
+2. filtrar informacion
+3. calificar perfiles de clientes
+4. asignar una linea de credito
